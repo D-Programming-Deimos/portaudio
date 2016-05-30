@@ -1,0 +1,6 @@
+name "portaudio"
+description "Deimos bindings for portaudio."
+license "MIT"
+importPaths "."
+targetType "sourceLibrary"
+libs "portaudio"
